@@ -6,6 +6,7 @@ Projek Tugas Besar Mata Kuliah Mikroprosesor dan Antarmuka Yang Beranggotakan :
 4. 
 
 Daftar Alat dan Bahan :
+
 No. Alat dan Bahan (Inti)   [     Qty     ]
 1.  Power Supply            [      1      ]
 2.  Mikrokontroler ESP 8266 [      1      ]
